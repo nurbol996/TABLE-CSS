@@ -1,0 +1,25 @@
+h1 {
+color: red;
+}
+h1::after {
+content: color: ;
+
+}
+
+
+section{
+border: 3px solid red;
+width: 16%;
+}
+.resurse{
+    background:rgb(235, 154, 124)
+}
+.nomber {
+    background:rgb(130, 130, 199)
+}
+th{
+    border: 2px solid blue;
+}
+span {
+    color: blue;
+}
