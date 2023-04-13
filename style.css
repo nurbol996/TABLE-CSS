@@ -9,13 +9,19 @@ content: color: ;
 
 section{
 border: 3px solid red;
-width: 16%;
+width: 17%;
 }
 .resurse{
     background:rgb(235, 154, 124)
 }
 .nomber {
-    background:rgb(130, 130, 199)
+    background:rgb(102, 102, 209)
+}
+.nomber1 {
+    background:rgb(206, 163, 174)
+}
+.nomber2 {
+    background:rgb(104, 128, 86)
 }
 th{
     border: 2px solid blue;
